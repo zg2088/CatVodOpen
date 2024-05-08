@@ -55,7 +55,7 @@
         "ext": [
           {
             "name": "🙋丫仙女",
-            "server": "http://alist.xiaoya.pro/",
+            "server": "https://ya.sismvp.com:4443/",
             "startPage": "/",
             "showAll": false,
             "search": true,
